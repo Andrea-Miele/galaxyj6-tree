@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_j6lte.mk
+    $(LOCAL_DIR)/twrp_j6lte.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_j6lte-user \
-    omni_j6lte-userdebug \
-    omni_j6lte-eng
+    twrp_j6lte-user \
+    twrp_j6lte-userdebug \
+    twrp_j6lte-eng
